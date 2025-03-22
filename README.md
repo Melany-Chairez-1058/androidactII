@@ -1,6 +1,9 @@
 # androidact2
 
 A new Flutter project created with FlutLab - https://flutlab.io
+-Salida
+-![image](https://github.com/user-attachments/assets/56ba3020-d7e1-4bfe-91f8-e15b8cedceea)
+
 
 ## Getting Started
 
